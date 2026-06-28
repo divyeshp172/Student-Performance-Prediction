@@ -180,8 +180,8 @@ Add screenshots here after running the project.
 
 **Divyesh P**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/divyeshP172
+
 
 ---
 
